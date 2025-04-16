@@ -1,0 +1,14 @@
+C:\Users\stud\Desktop\лиза дура\LessonsFor.DB\bin\Debug\net8.0\LessonsFor.DB.deps.json
+C:\Users\stud\Desktop\лиза дура\LessonsFor.DB\bin\Debug\net8.0\LessonsFor.DB.runtimeconfig.json
+C:\Users\stud\Desktop\лиза дура\LessonsFor.DB\bin\Debug\net8.0\LessonsFor.DB.dll
+C:\Users\stud\Desktop\лиза дура\LessonsFor.DB\bin\Debug\net8.0\LessonsFor.DB.pdb
+C:\Users\stud\Desktop\лиза дура\LessonsFor.DB\obj\Debug\net8.0\LessonsFor.DB.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\лиза дура\LessonsFor.DB\obj\Debug\net8.0\LessonsFor.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\лиза дура\LessonsFor.DB\obj\Debug\net8.0\LessonsFor.DB.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\лиза дура\LessonsFor.DB\obj\Debug\net8.0\LessonsFor.DB.AssemblyInfo.cs
+C:\Users\stud\Desktop\лиза дура\LessonsFor.DB\obj\Debug\net8.0\LessonsFor.DB.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\лиза дура\LessonsFor.DB\obj\Debug\net8.0\LessonsFor.DB.dll
+C:\Users\stud\Desktop\лиза дура\LessonsFor.DB\obj\Debug\net8.0\refint\LessonsFor.DB.dll
+C:\Users\stud\Desktop\лиза дура\LessonsFor.DB\obj\Debug\net8.0\LessonsFor.DB.pdb
+C:\Users\stud\Desktop\лиза дура\LessonsFor.DB\obj\Debug\net8.0\LessonsFor.DB.genruntimeconfig.cache
+C:\Users\stud\Desktop\лиза дура\LessonsFor.DB\obj\Debug\net8.0\ref\LessonsFor.DB.dll
